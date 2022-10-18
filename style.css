@@ -82,3 +82,8 @@ p{
     margin-bottom: 50px;
     text-align: center;
 }
+
+.muted-text{
+    position: fixed;
+    bottom: 10px;
+}
